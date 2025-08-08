@@ -93,11 +93,4 @@ laundry-site/
 
 ---
 
-## 📬 Contact
-
-For queries or feedback, contact:  
-📧 **info@laundrymart.com**
-
----
-
 © 2025 Laundry Wallah / Laundry Mart. All rights reserved.
